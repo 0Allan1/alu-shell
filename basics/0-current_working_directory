@@ -1,2 +1,2 @@
 #!/bin/bash
-this is current working directory
+pwd # this prints current working directory
