@@ -1,2 +1,2 @@
 #!/bin/bash
-touch /tmp/iamafile  #creating file iamafile in tmp directory
+cp /bin/ls /tmp/iamafile  #creating file iamafile in tmp directory
