@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -la . .. ls -la /boot   #list all files in long format hidden,parents,boot
