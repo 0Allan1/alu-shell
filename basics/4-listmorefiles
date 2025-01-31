@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -al  #Display current directory contents, including hidden files
