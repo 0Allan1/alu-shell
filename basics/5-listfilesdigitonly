@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -la --numeric-uid-gid  #Display current directory contents long formats,use,grp id and hidden files numerically
