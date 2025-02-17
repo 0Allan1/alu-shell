@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type f -empty -o -type d -empty -exec basename {} \;
+find . -mindepth 1 \( -type d -o -type f \) -empty -print0 | xargs -0 -I {} sh -c 'echo "${{}##*/}"'
