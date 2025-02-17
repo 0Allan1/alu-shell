@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -mindepth 1 \( -type d -o -type f \) -empty -print0 | xargs -0 -I {} sh -c 'echo "${{}##*/}"'
+find . -empty | rev | cut -d '/' -f 1 | rev'
