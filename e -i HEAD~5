@@ -1,0 +1,52 @@
+[33m1637289[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m directories_permissions
+[33m1b7ce5a[m directories_permissions
+[33m2c5c8cd[m directories_permissions
+[33md14a149[m directories_permissions
+[33mf486c53[m directories_permissions
+[33mfa030fe[m directories_permissions
+[33me888f17[m directories_permissions
+[33me95d502[m mirror_permission
+[33m036c414[m mirror_permission
+[33m3b8f6eb[m hello permission
+[33m1e39069[m only permissions to others
+[33m7c889b4[m execution permission to the owner,gruop and others
+[33m0a2ad9b[m execute permission
+[33me98142a[m execute permission
+[33md19b018[m permission for the user
+[33m14f5a60[m empty file
+[33m6bc4a77[m changing ownership
+[33mbd8e99e[m all groups current user is part of
+[33m2307601[m prints effective usernsme
+[33m192e141[m switching user to betty
+[33mee5a3d4[m switching user to betty
+[33mbba3a3d[m switching user to betty
+[33m0a0c31c[m readme
+[33mc4aecd0[m my Name is betty
+[33m049ce44[m directories
+[33m60c72b0[m directories
+[33mf0964e3[m directories
+[33m51387d6[m deleting all files ends ~
+[33m667cbe6[m move all files
+[33m46de540[m copy html file
+[33m5bb6ae1[m symbolic link
+[33m8ea89e1[m creating file iamafile
+[33m5fe4460[m adding file to tmp
+[33md02f373[m adding file to tmp
+[33m03e8105[m lists all files hidden,parent,boot
+[33mfc63146[m list all files hidden,parent,boot
+[33mcb24dd7[m  changes the working directory to the previous one.
+[33mb20fd71[m changes the working directory to the previous one
+[33md3d67eb[m deleting my first directory
+[33mf0f5e81[m deleting betty from tmp/my_first_directory
+[33m14caa1b[m move file from tmp to tmp/firstdirectory
+[33m3d41241[m creating directory into tmp directory
+[33mee6918b[m disply current directory content in long frmt,user,grpid and hiden files numerically
+[33mae25fc6[m Display current directory contents, including hidden files
+[33m423db34[m displays current directory content in long format
+[33m8f59f5d[m displays current directory content in long format
+[33m1b11178[m changing working directory to user's home directory
+[33mf6c320d[m display list of working directory
+[33m18c8827[m display list of working directory
+[33mb093b23[m display list of working directory
+[33m1fe007b[m this is shell scripts
+[33m2ce9887[m this is shell scripts
